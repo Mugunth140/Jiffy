@@ -7,6 +7,7 @@ export default function Index() {
       <Text className="text-5xl font-medium text-blue-500">
         Welcome to Jiffy
       </Text>
+      <Text>its a productivity app</Text>
     </SafeAreaView>
   );
 }
